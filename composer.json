@@ -2,7 +2,7 @@
     "name": "sebalarr/magento2-language-es_ar",
     "description": "Magento 2 Spanish (Argentina) language package - Paquete de idioma Español (Argentina) para Magento 2",
     "type": "magento2-language",
-    "version": "0.0.8",
+    "version": "0.0.1",
     "license": [
         "MIT"
     ],
@@ -13,7 +13,7 @@
             "homepage": "https://cuasar.com.ar/"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "magento/framework": ">=100"
     },
