@@ -3,7 +3,7 @@
     "description": "Magento 2 Spanish (Argentina) language package - Paquete de idioma Español (Argentina) para Magento 2",
     "type": "magento2-language",
     "version": "0.0.8",
-    "license": "Propietary"
+    "license": ["MIT"],
     "authors": [
         {
             "name": "Cuasar",
